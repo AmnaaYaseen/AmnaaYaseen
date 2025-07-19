@@ -14,7 +14,7 @@
 - 📚 Currently learning: **LLMs, Agentic AI, Prompt Engineering, RAG**
 - 💡 Interests: **GenAI, Applied ML, AI in healthcare, Personal Assistants**
 - 📬 Reach me:  
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:amna4455yaseen@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=amna4455yaseen@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amnaa-yaseen)
 
 ---
