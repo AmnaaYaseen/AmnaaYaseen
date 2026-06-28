@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Amna Yaseen
 
-🎓 **BS Data Science Student @ PUCIT**  
+🎓 **BS Data Science Student Graduate @ PUCIT**  
 🔍 ML Explorer | 🤖 LLMs + GenAI Enthusiast | 🌍 Real-world AI Applications
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AmnaaYaseen&color=blue)  
@@ -10,7 +10,7 @@
 
 ## 📌 Quick Facts
 
-- 🏫 Final-year student at **Punjab University College of Information Technology (PUCIT)**
+- 🏫 BS Data Science Graduate from **Punjab University College of Information Technology (PUCIT)**
 - 📚 Currently learning: **LLMs, Agentic AI, Prompt Engineering, RAG**
 - 💡 Interests: **GenAI, Applied ML, AI in healthcare, Personal Assistants**
 - 📬 Reach me:  
