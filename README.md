@@ -1,55 +1,81 @@
-# 👋 Hi, I'm Amna Yaseen
+# Amna Yaseen — AI Automation & Machine Learning Engineer
 
-🎓 **BS Data Science Student Graduate @ PUCIT**  
-🔍 ML Explorer | 🤖 LLMs + GenAI Enthusiast | 🌍 Real-world AI Applications
+Passionate about building production-ready AI systems that combine LLMs, 
+workflow automation, and machine learning to solve real business problems.
 
-![Profile Views](https://komarev.com/ghpvc/?username=AmnaaYaseen&color=blue)  
-![GenAI Badge](https://img.shields.io/badge/Tech%20Lover-GenAI-informational)
+BS Data Science, PUCIT (2026) · Lahore, Pakistan
 
----
-
-## 📌 Quick Facts
-
-- 🏫 BS Data Science Graduate from **Punjab University College of Information Technology (PUCIT)**
-- 📚 Currently learning: **LLMs, Agentic AI, Prompt Engineering, RAG**
-- 💡 Interests: **GenAI, Applied ML, AI in healthcare, Personal Assistants**
-- 📬 Reach me:  
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=amna4455yaseen@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amnaa-yaseen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-amna--yaseen-blue?logo=linkedin)](https://linkedin.com/in/amna-yaseen-93a3b2269)
+[![Email](https://img.shields.io/badge/Gmail-amnayaseen-red?logo=gmail)](mailto:amna4455yaseen@gmail.com)
 
 ---
 
-## 🙋‍♀️ About Me
+## What I Build
 
-Hi, I’m **Amna Yaseen**, a final-year Data Science student passionate about building data-driven solutions with real-world impact.  
-I’m deeply interested in how machine learning and AI can be applied to **healthcare, technology, and everyday decision-making.**
+I build production-ready AI applications by combining LLMs, workflow 
+automation, and machine learning into deployable systems.
 
-- 🌟 Exploring **LLMs, Computer Vision, NLP**, and Applied ML  
-- 🤝 Focused on building AI that’s not just smart — but **understandable, accessible, and meaningful**  
-- 🧠 I enjoy learning new tools, staying curious, and thinking creatively with data
+My focus includes:
 
----
-
-## 🛠️ Technical Skills
-
-| 🧩 **Category**         | 💻 **Skills**                                                                 |
-|------------------------|-------------------------------------------------------------------------------|
-| **Languages**          | Python, SQL, Java, HTML, CSS, JavaScript                                     |
-| **Libraries & Tools**  | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost, SHAP               |
-| **Frameworks**         | Streamlit, Flask                                                              |
-| **BI & Data Tools**    | Power BI, SQL Server, MySQL, Excel                                            |
-| **AI Concepts**        | Machine Learning, Deep Learning, NLP, Computer Vision                         |
-| **Core DS Concepts**   | EDA, Data Cleaning, Feature Engineering, Model Evaluation, Data Modeling      |
-| **Dev Tools**          | Jupyter Notebook, Google Colab, VS Code, Git                                  |
-| **Other Tools**        | LaTeX, Canva                                                                   |
+- 🤖 **AI Agents** — LLM-powered agents with tool calling and real-world integrations  
+- ⚙️ **Workflow Automation** — n8n, Activepieces, multi-step orchestration pipelines  
+- 📊 **ML Systems** — classification, SHAP explainability, Streamlit deployment  
+- ☁️ **Cloud Deployment** — Docker, Azure VM, PostgreSQL  
 
 ---
 
-## 📊 GitHub Stats
+## Featured Projects
 
-![Amna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmnaaYaseen&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmnaaYaseen&layout=compact&theme=radical)
+### 🏗️ [OpSyn — AI Workflow Automation Platform](https://github.com/AmnaaYaseen/opsyn-final)
+Built a B2B AI workflow automation platform by extending Activepieces with 
+custom AI integrations. Implemented a 5-stage automated sales pipeline 
+(Apify → OpenAI API → Hunter.io → Gmail → Google Sheets) and deployed 
+on Azure using Docker and PostgreSQL.  
+`TypeScript` `Python` `Docker` `Azure` `OpenAI API` `PostgreSQL`
+
+### 🗓️ [AI Meeting Scheduling Agent](https://github.com/AmnaaYaseen/ai-meeting-scheduling-agent)
+Natural language meeting scheduling with conflict detection, Google Calendar 
+integration, and automated event creation using OpenAI API and n8n.  
+`Python` `OpenAI API` `n8n` `Google Calendar API` `Discord` 
+
+### 📉 [Telco Customer Churn Prediction](https://github.com/AmnaaYaseen/telco-customer-churn-prediction)
+Random Forest model achieving 73% recall and AUC 0.78, optimized using 
+SMOTE and custom probability thresholding (0.3) with SHAP explainability 
+on top 10 features. Deployed as Streamlit app.  
+`Python` `Scikit-learn` `SHAP` `Streamlit` `XGBoost`
+
+### 🧠 [Alzheimer's Disease Prediction](https://github.com/AmnaaYaseen/Alzheimer-s-Disease-Dataset-Analysis-and-Prediction-)
+Clinical ML model avoiding expensive MRI methods. 93.09% accuracy, 
+balanced precision/recall ~0.93, Random Forest, 304-sample holdout.  
+`Python` `Scikit-learn` `Pandas`
+
+### 📊 [Medical Lab Analytics Dashboard](https://github.com/AmnaaYaseen/medical-lab-dashboard)
+Power BI dashboard across 8,096 samples, 262 facilities, 52 physicians. 
+Star schema data model.  
+`Power BI` `SQL` `DAX`
 
 ---
 
-> ✨ _“Build responsibly. Learn endlessly. Stay curious.”_
+## Core Stack
+
+| Area | Tools |
+|------|-------|
+| **AI Engineering** | OpenAI API, LLMs, LangChain, Prompt Engineering |
+| **Automation** | n8n, Activepieces, Discord API, Google Calendar API |
+| **Machine Learning** | Python, Scikit-learn, XGBoost, SHAP, Pandas, NumPy |
+| **Deployment** | Docker, Azure VM, PostgreSQL, Streamlit |
+| **Analytics** | Power BI, SQL Server, DAX |
+| **Developer Tools** | Git, GitHub, VS Code, Jupyter |
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmnaaYaseen&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmnaaYaseen&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
+*Open to AI Automation Engineer, LLM Engineer, and Machine Learning 
+Engineer roles in Lahore.*
