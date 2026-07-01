@@ -69,13 +69,5 @@ Star schema data model.
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmnaaYaseen&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmnaaYaseen&layout=compact&theme=github_dark&hide_border=true)
-
----
-
 *Open to AI Automation Engineer, LLM Engineer, and Machine Learning 
 Engineer roles in Lahore.*
